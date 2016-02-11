@@ -1,3 +1,9 @@
+# DEPRECATED
+
+This repository is no longer maintained.
+
+* * *
+
 Integration tools provides you with your working webapp inside a Scala test!
 
 - no build scripts to startup
